@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+
+# Node modules (if your client/server uses Node.js)
+node_modules/
+
+# Build outputs (example, adjust if you have other build folders)
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# VS Code local settings (optional, but good practice if not shared)
+.vscode/
+
+# Any other temporary/binary files that might be generated in client or server
+# For example, if you have specific binary outputs like:
+# client/my_compiled_app
+# server/server_executable
