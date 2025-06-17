@@ -8,7 +8,7 @@ async function testConnection() {
             host: 'localhost',
             user: 'root',
             database: 'pathfinder',
-            password: 'saxena172900@NIT', // <-- Put your real password here!
+            password: 'saxena', // <-- Put your real password here!
         });
 
         console.log('Connection pool created. Fetching users...');
